@@ -1,3 +1,3 @@
-# bootstrap_mail_project
+# bootstrap_mail
 
 Used for educational training purposes only
